@@ -1,0 +1,1 @@
+Ubuntu目前是世界上最流行的Linux操作系统，它提供了桌面版本和服务器版本，其他流行的Linux发行版本如Linux Mint也是基于Ubuntu定制而来。

@@ -1,0 +1,2 @@
+Using MATLAB programming to process longitudinal cutting papers and cross cutting papers.
+For longitudinal cutting papers, using MATLAB to extract and analyze gray value of paper image’s edge,then measure the correlation coefficient between edge columns of each grayscale matrix as similarity.
