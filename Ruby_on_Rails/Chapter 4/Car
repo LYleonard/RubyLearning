@@ -1,0 +1,13 @@
+class Car
+  def initialize(brand,color)
+    @brand = brand
+    @color = color
+  end
+
+  def show
+    puts "这是一辆#{@color}的#{@brand}轿车"
+  end
+end
+
+car = Car.new("BYD","红色")
+car.show
